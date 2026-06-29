@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "202728611966",
+    "project_id": "balam-barber",
+    "storage_bucket": "balam-barber.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202728611966:android:cc401b733f3fd459ebf82f",
+        "android_client_info": {
+          "package_name": "com.example.barberia_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBimGH3z3u2eORLsTlRIx5ltVDKyBlgKMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

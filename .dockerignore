@@ -1,0 +1,28 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+env/
+.env
+
+.git/
+.gitignore
+.dockerignore
+.fly/
+
+barberia_flutter/
+frontend/widget/node_modules/
+frontend/widget/dist/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
